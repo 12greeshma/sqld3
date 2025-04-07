@@ -21,12 +21,12 @@ class CalculatorTest {
 //		assertEquals(3, result);
 //	}
 	
-//	@Test
-//	void testMultiply() {
-//		Calculator calculator = new Calculator();
-//		int result = calculator.multiply(3, 3);
-//		assertEquals(9, result);
-//	}
+	@Test
+	void testMultiply() {
+		Calculator calculator = new Calculator();
+		int result = calculator.multiply(3, 3);
+		assertEquals(9, result);
+	}
 
 	@Test
 	void testDivide() {
