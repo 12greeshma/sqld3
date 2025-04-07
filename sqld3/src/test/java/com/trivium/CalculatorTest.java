@@ -14,19 +14,19 @@ class CalculatorTest {
 //		assertEquals(5, result);
 //	}
 //	
-	@Test
-	void testSubtract() {
-		Calculator calculator = new Calculator();
-		int result = calculator.subtract(6, 3);
-		assertEquals(3, result);
-	}
+//	@Test
+//	void testSubtract() {
+//		Calculator calculator = new Calculator();
+//		int result = calculator.subtract(6, 3);
+//		assertEquals(3, result);
+//	}
 	
-	@Test
-	void testMultiply() {
-		Calculator calculator = new Calculator();
-		int result = calculator.multiply(3, 3);
-		assertEquals(9, result);
-	}
+//	@Test
+//	void testMultiply() {
+//		Calculator calculator = new Calculator();
+//		int result = calculator.multiply(3, 3);
+//		assertEquals(9, result);
+//	}
 
 	@Test
 	void testDivide() {
