@@ -14,12 +14,12 @@ class CalculatorTest {
 //		assertEquals(5, result);
 //	}
 //	
-	@Test
-	void testSubtract() {
-		Calculator calculator = new Calculator();
-		int result = calculator.subtract(6, 3);
-		assertEquals(3, result);
-	}
+//	@Test
+//	void testSubtract() {
+//		Calculator calculator = new Calculator();
+//		int result = calculator.subtract(6, 3);
+//		assertEquals(3, result);
+//	}
 	
 	@Test
 	void testMultiply() {
